@@ -65,3 +65,6 @@ print(f"Input: nums = {nums4} -> Output: {solver.threeSum(nums4)}") # Expected O
 
 nums5 = [1, -1, -1, 0]
 print(f"Input: nums = {nums5} -> Output: {solver.threeSum(nums5)}") # Expected Output: [[-1,0,1]]
+
+nums5 = [1, -1, -1, 0]
+print(f"Input: nums = {nums5} -> Output: {solver.threeSum(nums5)}") # Expected Output: [[-1,0,1]]
